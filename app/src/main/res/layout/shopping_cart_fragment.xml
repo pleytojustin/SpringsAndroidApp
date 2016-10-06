@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.springs.springs.ShoppingCart"
+    android:background="#ffffff">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_gravity="center_horizontal|top"
+        android:background="@drawable/booksshop"
+        android:layout_marginTop="10dp" />
+
+    <ImageView
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:layout_gravity="center"
+        android:background="@drawable/audioshop" />
+
+    <ImageView
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView4"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="@drawable/eventsshop"
+        android:layout_marginBottom="10dp" />
+
+</FrameLayout>

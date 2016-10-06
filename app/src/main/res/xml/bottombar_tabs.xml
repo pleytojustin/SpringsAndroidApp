@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_newsletter"
+        icon="@drawable/ic_newsletter"
+        title="NewsLetter"
+         />
+    <tab
+        id="@+id/tab_cart"
+        icon="@drawable/ic_cart"
+        title="Shop"
+         />
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home"
+        title="Home"
+         />
+
+    <tab
+        id="@+id/tab_books"
+        icon="@drawable/ic_books"
+        title="Library"
+         />
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/ic_profile"
+        title="Profile" />
+</tabs>
